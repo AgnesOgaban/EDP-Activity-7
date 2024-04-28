@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0022: Use block body for method
+csharp_style_expression_bodied_methods = false
+
+# CS0437: Type conflicts with imported namespace
+dotnet_diagnostic.CS0437.severity = none

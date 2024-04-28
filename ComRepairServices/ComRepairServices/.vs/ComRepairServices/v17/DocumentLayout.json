@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|c:\\users\\agnes ogaban\\downloads\\edp activity 7\\comrepairservices\\comrepairservices\\comrepairservices\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\transactions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\transactions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\products.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\products.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\customers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\customers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\repairhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\repairhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\repairrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\repairrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\repairsstatusupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\repairsstatusupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\reports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\reports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\transact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\transact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\prod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\prod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\employees.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\employees.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\employees.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\employees.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\transactions.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\transactions.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\repairManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Repaircs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\comrepairservices\\cust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B439C5-DB50-4221-B5EA-73EC76CFA317}|ComRepairServices\\ComRepairServices.csproj|solutionrelative:comrepairservices\\cust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Customers.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Customers.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Customers.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T03:27:19.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Reports.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Reports.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Reports.cs [Design]",
+              "RelativeToolTip": "ComRepairServices\\Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T05:57:40.343Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Reports.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Reports.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Reports.cs",
+              "RelativeToolTip": "ComRepairServices\\Reports.cs",
+              "ViewState": "AQIAAM0BAAAAAAAAAAAuwOQBAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:01:48.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Customers.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Customers.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Customers.cs",
+              "RelativeToolTip": "ComRepairServices\\Customers.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAYwHsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:34:07.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Dashboard.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:04:18.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transactions.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Transactions.Designer.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Transactions.Designer.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Transactions.Designer.cs",
+              "RelativeToolTip": "ComRepairServices\\Transactions.Designer.cs",
+              "ViewState": "AQIAAAACAAAAAAAAAAAAwBMCAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T10:15:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Transactions.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Transactions.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Transactions.cs",
+              "RelativeToolTip": "ComRepairServices\\Transactions.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAiwKAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:30:27.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Products.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Products.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Products.cs",
+              "RelativeToolTip": "ComRepairServices\\Products.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAwIYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:53:46.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transactions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Transactions.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Transactions.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Transactions.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Transactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T05:57:41.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Products.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Products.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Products.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Products.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:47:44.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Products.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Products.Designer.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Products.Designer.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Products.Designer.cs",
+              "RelativeToolTip": "ComRepairServices\\Products.Designer.cs",
+              "ViewState": "AQIAAIQBAAAAAAAAAAAqwJgBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T03:04:35.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Customers.Designer.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Customers.Designer.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Customers.Designer.cs",
+              "RelativeToolTip": "ComRepairServices\\Customers.Designer.cs",
+              "ViewState": "AQIAAFcBAAAAAAAAAAAuwGwBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T03:32:50.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Employees.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Employees.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Employees.cs",
+              "RelativeToolTip": "ComRepairServices\\Employees.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAAwIIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:19:52.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employees.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Employees.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Employees.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Employees.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Employees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:19:36.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Login.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Login.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T05:54:58.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "About.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\About.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\About.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\About.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ComRepairServices\\ComRepairServices\\ComRepairServices\\About.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:25:28.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Account.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Account.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Account.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Account.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:11:26.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RepairHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\RepairHistory.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\RepairHistory.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\RepairHistory.cs",
+              "RelativeToolTip": "ComRepairServices\\RepairHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:31:11.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RepairRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\RepairRequest.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\RepairRequest.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\RepairRequest.cs",
+              "RelativeToolTip": "ComRepairServices\\RepairRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:31:14.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RepairsStatusUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\RepairsStatusUpdate.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\RepairsStatusUpdate.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\RepairsStatusUpdate.cs",
+              "RelativeToolTip": "ComRepairServices\\RepairsStatusUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:31:16.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reports.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Reports.Designer.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Reports.Designer.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Reports.Designer.cs",
+              "RelativeToolTip": "ComRepairServices\\Reports.Designer.cs",
+              "ViewState": "AQIAAKYBAAAAAAAAAAAgwF0BAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:03:13.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Program.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Program.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Program.cs",
+              "RelativeToolTip": "ComRepairServices\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:31:13.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Transact.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Transact.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Transact.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Transact.cs",
+              "RelativeToolTip": "ComRepairServices\\Transact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:23:23.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Prod.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Prod.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Prod.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Prod.cs",
+              "RelativeToolTip": "ComRepairServices\\Prod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:46:39.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Emp.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Emp.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Emp.cs",
+              "RelativeToolTip": "ComRepairServices\\Emp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:19:33.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Employees.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Employees.Designer.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Employees.Designer.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Employees.Designer.cs",
+              "RelativeToolTip": "ComRepairServices\\Employees.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:22:22.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Dashboard.Designer.cs",
+              "RelativeToolTip": "ComRepairServices\\Dashboard.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:20:48.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Dashboard.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Dashboard.cs",
+              "RelativeToolTip": "ComRepairServices\\Dashboard.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAmwJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:05:45.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Login.Designer.cs",
+              "RelativeToolTip": "ComRepairServices\\Login.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:20:10.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Login.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Login.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Login.cs",
+              "RelativeToolTip": "ComRepairServices\\Login.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAmwFEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:13:34.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Employees.resx",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Employees.resx",
+              "RelativeDocumentMoniker": "ComRepairServices\\Employees.resx",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Employees.resx",
+              "RelativeToolTip": "ComRepairServices\\Employees.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-16T08:59:51.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Account.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Account.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Account.cs",
+              "RelativeToolTip": "ComRepairServices\\Account.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAIwMIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:11:33.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.resx",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Login.resx",
+              "RelativeDocumentMoniker": "ComRepairServices\\Login.resx",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Login.resx",
+              "RelativeToolTip": "ComRepairServices\\Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-15T15:12:38.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Transactions.resx",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Transactions.resx",
+              "RelativeDocumentMoniker": "ComRepairServices\\Transactions.resx",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Transactions.resx",
+              "RelativeToolTip": "ComRepairServices\\Transactions.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-15T03:39:54.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Cust.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Cust.cs",
+              "RelativeDocumentMoniker": "ComRepairServices\\Cust.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\EDP Activity 7\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Cust.cs",
+              "RelativeToolTip": "ComRepairServices\\Cust.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T03:29:50.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Repaircs.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Repaircs.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Repaircs.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Repaircs.cs",
+              "RelativeToolTip": "..\\..\\..\\ComRepairServices\\ComRepairServices\\ComRepairServices\\Repaircs.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:59:23.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "repairManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\repairManagement.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ComRepairServices\\ComRepairServices\\ComRepairServices\\repairManagement.cs",
+              "ToolTip": "C:\\Users\\Agnes Ogaban\\Downloads\\ComRepairServices\\ComRepairServices\\ComRepairServices\\repairManagement.cs",
+              "RelativeToolTip": "..\\..\\..\\ComRepairServices\\ComRepairServices\\ComRepairServices\\repairManagement.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:08:04.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
